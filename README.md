@@ -107,7 +107,7 @@
 </div>
 
 <script>
-  let total = 1.90;
+  let total = 0;
 
   function adicionar(valor) {
     total += valor;
